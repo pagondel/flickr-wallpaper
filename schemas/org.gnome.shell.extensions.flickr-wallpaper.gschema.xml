@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.flickr-wallpaper"
+    path="/org/gnome/shell/extensions/flickr-wallpaper/">
+
+    <key type="as" name="wallpapers">
+      <default>[]</default>
+      <summary>List of downloaded walpapers</summary>
+      <description>List of downloaded walpapers</description>
+    </key>
+
+  </schema>
+
+</schemalist>

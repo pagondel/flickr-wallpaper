@@ -1,0 +1,10 @@
+{
+  "uuid": "flickr-wallpaper@pagondel.org",
+  "name": "Flickr Wallpaper",
+  "description": "Obtains photo from Flickr and sets it as wallpaper",
+  "version": 1,
+  "shell-version": [
+    "3.36"
+  ],
+  "url": ""
+}
